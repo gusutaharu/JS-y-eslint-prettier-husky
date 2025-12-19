@@ -1,8 +1,8 @@
-console.log('hello');
+console.log('hello')
 
-const boolean = true;
+const boolean = true
 if (boolean) {
   const a = "a"
 }
 
-const helloWorld = 1;
+const helloWorld = 1

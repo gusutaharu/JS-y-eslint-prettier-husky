@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "",
     "lint": "eslint app.js",
     "fix": "eslint --fix",
-    "format": "prettier --write",
+    "format": "prettier --write app.js",
     "prepare": "husky"
   },
   "lint-staged": {
